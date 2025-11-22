@@ -87,52 +87,6 @@
       ],
       "budget": "10k-20k",
       "date": "21/11/2025"
-    },
-    {
-      "id": "b83a",
-      "username": "Akash K S",
-      "mail": "akashks304@gmail.com",
-      "mobile": "07736956474",
-      "company": "a",
-      "projectTitle": "A",
-      "projectType": "Website",
-      "pDescription": "a",
-      "techStack": [
-        "A"
-      ],
-      "budget": "10k-20k",
-      "date": "21/11/2025"
-    },
-    {
-      "id": "ff2f",
-      "username": "Akash ",
-      "mail": "akashks304@gmail.com",
-      "mobile": "07736956474",
-      "company": "hvchj",
-      "projectTitle": "JDKJWQBD",
-      "projectType": "Web Application",
-      "pDescription": "jwbdnjweb",
-      "techStack": [
-        "A",
-        "NN"
-      ],
-      "budget": "1L-5L",
-      "date": "21/11/2025"
-    },
-    {
-      "id": "cf53",
-      "username": "Akash K S",
-      "mail": "akashks304@gmail.com",
-      "mobile": "07736956474",
-      "company": "a",
-      "projectTitle": "A",
-      "projectType": "Web Application",
-      "pDescription": "a",
-      "techStack": [
-        "REACT"
-      ],
-      "budget": "10k-20k",
-      "date": "21/11/2025"
     }
   ]
 }
